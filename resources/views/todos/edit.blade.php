@@ -7,7 +7,7 @@
             Edit Todo
         </div>
         <div class="card-body">
-            <form method="POST" action="/todos/{{$todo->id}}">
+            <form method="POST" action="/{{$todo->id}}">
                 @if ($errors->any())
                     <div class="alert alert-danger">
                         <ul>
