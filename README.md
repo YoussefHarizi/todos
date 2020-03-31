@@ -36,4 +36,10 @@ and run server
 ```
 enjoy! 
 ### Screenshot
+<p align="center"><img src="https://github.com/YoussefHarizi/todos/blob/master/screenshots/todos1.png"></p>
 
+<p align="center"><img src="https://github.com/YoussefHarizi/todos/blob/master/screenshots/new_task.png" with="500"></p>
+
+<p align="center"><img src="https://github.com/YoussefHarizi/todos/blob/master/screenshots/view_task.png" with="500"></p>
+
+<p align="center"><img src="https://github.com/YoussefHarizi/todos/blob/master/screenshots/edit_task.png" with="500"></p>
